@@ -1,2 +1,2 @@
 This is my TimeLine
-<img src="img/timeling.png">
+<img src="img/timeline.png">
